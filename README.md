@@ -41,7 +41,8 @@ If you use the same setting for everything, use one row.
 
 | Part  | Material        | Quantity | Infill   | Layer hight
 | ----- | --------------- | -------- | -------- | ------------
-| part1 | [PolyMaker PLA](https://docs.rs-online.com/b4bb/A700000006921793.pdf) | 3  | 20 % | .15 mm      
+| Block module | [PolyMaker PLA](https://docs.rs-online.com/b4bb/A700000006921793.pdf) | 9  | 20 % | .15 mm      
+| Servo holder | [PolyMaker PLA](https://docs.rs-online.com/b4bb/A700000006921793.pdf) | 16  | 20 % | .15 mm     
 
 **Deliverables:** Image of the physical prototype as `./output/2physical_prototype.jpg` and table with 3D-print instructions.
 
@@ -51,4 +52,11 @@ Create a table with the most important components for your setup.
 
 | Item | Description      | Quantity 
 | ---- | ---------------- | -------- 
-| 1    | [Dynamixel AX12](https://emanual.robotis.com/docs/en/dxl/ax/ax-12a/) | 3       
+| 1    | U2D2 Power Hub Board | 1     
+| 2    | 3P Extension PCB | 9     
+| 3    | Dynamixel AX18 | 8     
+| 4    | FP04-F2 | 8     
+| 5    | FP04-F3 | 8 
+| 6    | Neodym magnets | 52     
+
+
