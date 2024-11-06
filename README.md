@@ -52,5 +52,11 @@ Create a table with the most important components for your setup.
 
 | Item | Description      | Quantity 
 | ---- | ---------------- | -------- 
-| 1    | Dynamixel AX18 | 3     
+| 1    | U2D2 Power Hub Board | 1     
+| 2    | 3P Extension PCB | 9     
+| 3    | Dynamixel AX18 | 8     
+| 4    | FP04-F2 | 8     
+| 5    | FP04-F3 | 8 
+| 6    | Neodym magnets | 52     
+
 
