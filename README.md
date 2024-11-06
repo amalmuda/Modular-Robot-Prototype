@@ -52,4 +52,5 @@ Create a table with the most important components for your setup.
 
 | Item | Description      | Quantity 
 | ---- | ---------------- | -------- 
-| 1    | [Dynamixel AX12](https://emanual.robotis.com/docs/en/dxl/ax/ax-12a/) | 3       
+| 1    | Dynamixel AX18 | 3     
+
