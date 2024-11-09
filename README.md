@@ -59,6 +59,7 @@ Create a table with the most important components for your setup.
 | 3    | Dynamixel AX-18A | 8     
 | 4    | FP04-F2 | 8     
 | 5    | FP04-F3 | 8 
-| 6    | Neodym magnets 12 mm | 52     
+| 6    | Neodym magnets 12 mm | 52 
+| 7    | Molex 3P adapter | 36   
 
 
