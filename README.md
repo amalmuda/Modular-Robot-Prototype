@@ -50,43 +50,35 @@ If you use the same setting for everything, use one row.
 
 ## 3) Bill of materials
 
-Create a table with the most important components for your setup. 
-
+Main components:
 | Item | Description      | Quantity 
 | ---- | ---------------- | -------- 
-| 1    | Robotis U2D2 Power Hub Board | 1     
-| 2    | Robotis 3P Extension PCB | 9     
-| 3    | Dynamixel AX-18A servo | 8     
-| 4    | Dynamixel-AX Bioloid frame FP04-F2 | 8     
-| 5    | Dynamixel-AX Bioloid frame FP04-F3 | 8 
-| 6    | RS PRO Neodym magnet 2.09 kg, 12 mm | 52 
-| 7    | Molex 3P adapter | 36 
-| 8    | M2 screws | 52
-| 9    | M2 nuts | 52   
-| 10    | Self-assembled 3P Molex cables 4 cm | 52   
-| 11    | Self-assembled 3P Molex cables 8 cm | 52   
-| 12    | Self-assembled 3P Molex cables 18 cm | 52   
-| 13    | Bioloid Plastic Busher BPF-BU| 52 
-| 14    | Bioloid Plastic Washer BPF-WA| 52
-| 15    | M3 bolts| 52
+| 1    | Robotis U2D2 Power Hub Board | 1         
+| 2    | Dynamixel AX-18A servo | 8     
 
+Mounting components:
 | Item | Description      | Quantity 
 | ---- | ---------------- | -------- 
-| 1    | Robotis U2D2 Power Hub Board | 1     
-| 2    | Robotis 3P Extension PCB | 9     
-| 3    | Dynamixel AX-18A servo | 8     
-| 4    | Dynamixel-AX Bioloid frame FP04-F2 | 8     
-| 5    | Dynamixel-AX Bioloid frame FP04-F3 | 8 
-| 6    | RS PRO Neodym magnet 2.09 kg, 12 mm | 52 
-| 7    | Molex 3P adapter | 36 
-| 8    | M2 screws | 52
-| 9    | M2 nuts | 52   
-| 10    | Self-assembled 3P Molex cables 4 cm | 52   
-| 11    | Self-assembled 3P Molex cables 8 cm | 52   
-| 12    | Self-assembled 3P Molex cables 18 cm | 52   
-| 13    | Bioloid Plastic Busher BPF-BU| 52 
-| 14    | Bioloid Plastic Washer BPF-WA| 52
-| 15    | M3 bolts| 52
+| 1    | Dynamixel-AX Bioloid frame FP04-F2 | 8     
+| 2    | Dynamixel-AX Bioloid frame FP04-F3 | 8 
+| 3    | RS PRO Neodym magnet 2.09 kg, 12 mm | 52 
 
+Connectors and wiring:
+| Item | Description      | Quantity 
+| ---- | ---------------- | -------- 
+| 1    | Robotis 3P Extension PCB | 9 
+| 2    | Molex 3P adapter | 36 
+| 3    | Self-assembled 3P Molex cables 4 cm | 52   
+| 4    | Self-assembled 3P Molex cables 8 cm | 52   
+| 5    | Self-assembled 3P Molex cables 18 cm | 52
+
+Fasteners:
+| Item | Description      | Quantity 
+| ---- | ---------------- | -------- 
+| 1    | M2 screws | 52
+| 2    | M2 nuts | 52  
+| 3    | M3 bolts| 52
+| 4    | Bioloid Plastic Busher BPF-BU| 52 
+| 5    | Bioloid Plastic Washer BPF-WA| 52
 
 
