@@ -72,7 +72,6 @@ Connectors and wiring:
 | 3    | Self-assembled 3P Molex cable 4 cm | 36   
 | 4    | Self-assembled 3P Molex cable 8 cm | 16   
 | 5    | Self-assembled 3P Molex cable 18 cm | 16
-| 5    | Self-assembled 3P Molex cable 18 cm | 16
 | 6    | Self-assembled 3P Molex cable 50 - 100 cm | 1  
 | 7    | Micro USB cable | 1  
 
