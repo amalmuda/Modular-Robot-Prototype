@@ -11,7 +11,7 @@
 
 ![](./output/2physical_prototype.jpg)
 
-![U2D2 Power Hub Board with 3D printed base](./output/2power_hub_base.JPG)
+![U2D2 Power Hub Board with 3D printed base](./output/2power_hub_base.jpg)
 
 | Part  | Material        | Quantity | Infill   | Layer hight
 | ----- | --------------- | -------- | -------- | ------------
