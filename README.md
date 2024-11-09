@@ -84,4 +84,10 @@ Fasteners:
 | 4    | M2 screws | 164
 | 5    | M2 nuts | 32  
 
+Extra if time:
+| Item | Description      | Quantity 
+| ---- | ---------------- | -------- 
+| 1    | LED lights inside Block modules| 18 
+| 2    | Lazer cutted logo on Block module lid| 18
+| 3    | Small thin magnets on lid| 72
 
