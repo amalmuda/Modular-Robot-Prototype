@@ -53,8 +53,9 @@ If you use the same setting for everything, use one row.
 Main components:
 | Item | Description      | Quantity 
 | ---- | ---------------- | -------- 
-| 1    | Robotis U2D2 Power Hub Board | 1         
-| 2    | Dynamixel AX-18A servo | 8     
+| 1    | Robotis U2D2 USB communication converter | 1     
+| 2    | Robotis U2D2 Power Hub Board | 1   
+| 3    | Dynamixel AX-18A servo | 8
 
 Mounting components:
 | Item | Description      | Quantity 
@@ -68,9 +69,12 @@ Connectors and wiring:
 | ---- | ---------------- | -------- 
 | 1    | Robotis 3P Extension PCB | 9 
 | 2    | 3P Molex male to female adapter| 36 
-| 3    | Self-assembled 3P Molex cables 4 cm | 36   
-| 4    | Self-assembled 3P Molex cables 8 cm | 16   
-| 5    | Self-assembled 3P Molex cables 18 cm | 16
+| 3    | Self-assembled 3P Molex cable 4 cm | 36   
+| 4    | Self-assembled 3P Molex cable 8 cm | 16   
+| 5    | Self-assembled 3P Molex cable 18 cm | 16
+| 5    | Self-assembled 3P Molex cable 18 cm | 16
+| 6    | Self-assembled 3P Molex cable 50 - 100 cm | 1  
+| 7    | Micro USB cable | 1  
 
 Fasteners:
 | Item | Description      | Quantity 
