@@ -17,7 +17,7 @@
 | ----- | --------------- | -------- | -------- | ------------
 | Block module | ABS | 9  | 20 % | 0.2 mm      
 | Servo holder | ABS | 16  | 20 % | 0.2 mm       
-| Lid | PolyMaker PLA | 19  | 20 % | 0.2 mm       
+| Lid | PolyMaker PLA | 18  | 20 % | 0.2 mm       
 | Power Hub Board base | PolyMaker PLA | 1  | 20 % | 0.2 mm     
 
 ## 3) Bill of materials
