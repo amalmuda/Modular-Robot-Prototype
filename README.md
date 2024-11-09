@@ -59,9 +59,9 @@ Main components:
 Mounting components:
 | Item | Description      | Quantity 
 | ---- | ---------------- | -------- 
-| 1    | Dynamixel-AX Bioloid frame FP04-F2 | 8     
-| 2    | Dynamixel-AX Bioloid frame FP04-F3 | 8 
-| 3    | RS PRO Neodym magnet 2.09 kg, 12 mm | 52 
+| 1    | Dynamixel-AX Bioloid FP04-F2 frame | 8     
+| 2    | Dynamixel-AX Bioloid FP04-F3 frame | 8 
+| 3    | RS PRO Neodym magnet 2.09 kg - 12 mm | 52
 
 Connectors and wiring:
 | Item | Description      | Quantity 
@@ -75,10 +75,10 @@ Connectors and wiring:
 Fasteners:
 | Item | Description      | Quantity 
 | ---- | ---------------- | -------- 
-| 1    | M2 screws | 164
-| 2    | M2 nuts | 32  
+| 1    | Bioloid Plastic Busher BPF-BU| 8 
+| 2    | Bioloid Plastic Washer BPF-WA| 8
 | 3    | M3 bolts| 8
-| 4    | Bioloid Plastic Busher BPF-BU| 8 
-| 5    | Bioloid Plastic Washer BPF-WA| 8
+| 4    | M2 screws | 164
+| 5    | M2 nuts | 32  
 
 
