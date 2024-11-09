@@ -1,20 +1,6 @@
 # Assignment 5 - IN5590
 *Part 2 of 4 of the main project*
 
-In this assignment you will make the physical robot from assignment 4. 
-
-On [October 25](https://www.uio.no/studier/emner/matnat/ifi/IN5590/h24/timeplan/index.html#FOR)
-we arrange a **mandatory status update** for your projects. Each student will have 3 minutes for the 
-demonstration. The content should be:
-
-- What you are making.
-- How is it meant to work.
-- Where are you now.
-- What do you have left.
-- Which issues have you faced
-
-Bring the prototype.
-
 ## 1) CAD files
 
 All SolidWorks-files should be put in directory: `./solidworks/`, including part and assembly files.
