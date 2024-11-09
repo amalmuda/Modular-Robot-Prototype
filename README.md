@@ -13,7 +13,7 @@
 
 ![U2D2 Power Hub Board with 3D printed base](./output/2power_hub_base.jpg)
 
-| Part  | Material        | Quantity | Infill   | Layer hight
+| Part  | Material        | Quantity | Infill   | Layer height
 | ----- | --------------- | -------- | -------- | ------------
 | Block module | ABS | 9  | 20 % | 0.2 mm      
 | Servo holder | ABS | 16  | 20 % | 0.2 mm       
