@@ -41,9 +41,9 @@ If you use the same setting for everything, use one row.
 
 | Part  | Material        | Quantity | Infill   | Layer hight
 | ----- | --------------- | -------- | -------- | ------------
-| Block module | ABS | 9  | 20 % | .15 mm      
-| Servo holder | ABS | 16  | 20 % | .15 mm     
-| Lid | PolyMaker PLA | 19  | 20 % | .15 mm     
+| Block module | ABS | 9  | 20 % | 0.2 mm      
+| Servo holder | ABS | 16  | 20 % | 0.2 mm       
+| Lid | PolyMaker PLA | 19  | 20 % | 0.2 mm       
 | Power Hub Board base | PolyMaker PLA | 1  | 20 % | .15 mm     
 
 **Deliverables:** Image of the physical prototype as `./output/2physical_prototype.jpg` and table with 3D-print instructions.
