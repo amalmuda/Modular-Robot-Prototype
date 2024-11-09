@@ -44,7 +44,7 @@ If you use the same setting for everything, use one row.
 | Block module | ABS | 9  | 20 % | .15 mm      
 | Servo holder | ABS | 16  | 20 % | .15 mm     
 | Lid | PolyMaker PLA | 19  | 20 % | .15 mm     
-| PHB base | PolyMaker PLA | 19  | 20 % | .15 mm     
+| Power Hub Board base | PolyMaker PLA | 1  | 20 % | .15 mm     
 
 **Deliverables:** Image of the physical prototype as `./output/2physical_prototype.jpg` and table with 3D-print instructions.
 
@@ -61,5 +61,6 @@ Create a table with the most important components for your setup.
 | 5    | FP04-F3 | 8 
 | 6    | Neodym magnets 12 mm | 52 
 | 7    | Molex 3P adapter | 36   
+| 8    | Self-assembled Molex cables | 52   
 
 
