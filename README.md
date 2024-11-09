@@ -61,7 +61,6 @@ Create a table with the most important components for your setup.
 | 5    | Dynamixel-AX Bioloid frame FP04-F3 | 8 
 | 6    | RS PRO Neodym magnet 2.09 kg, 12 mm | 52 
 | 7    | Molex 3P adapter | 36 
-
 | 8    | M2 screws | 52
 | 9    | M2 nuts | 52   
 | 10    | Self-assembled 3P Molex cables 4 cm | 52   
