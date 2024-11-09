@@ -62,4 +62,6 @@ Extra if time:
 | 1    | LED lights inside Block modules| 18 
 | 2    | Lazer cutted logo on Block module lid| 18
 | 3    | Small thin magnets on lid| 72
+| 4    | 3D printed mating-adapter to connect two block-modules| 4-8
+| 5    | 3D printed mating-adapter to connect two servo-modules| 4-8
 
