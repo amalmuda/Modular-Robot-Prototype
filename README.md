@@ -3,27 +3,15 @@
 
 ## 1) CAD files
 
-All SolidWorks-files should be put in directory: `./solidworks/`, including part and assembly files.
-
-An image with side-by-side assambled part and exploded view, should be added as `./output/1.png`
-Create two snapshots that illustrates the robot/prototype:
- - One with the entire assembled robot.
- - One png using the [exploaded view feature in SolidWorks](https://help.solidworks.com/2022/english/SolidWorks/sldworks/c_Exploded_Views_in_Assemblies.htm).
-
 ![Assembled view of the robot](./output/1assembled.PNG)
 
 ![Exploaded view of the robot](./output/1exploded.PNG)
 
-**Deliverables:** SolidWorks files including assembly and partfiles in `./solidworks/` directory. `./output/1assembled.PNG` and `./output/1exploded.PNG` snapshots.
-
 ## 2) 3D-print
-
-3D-print all the parts and take a photo of the robot once it is assembled.
 
 ![](./output/2physical_prototype.jpg)
 
-Make a table of 3D-printer material used, infill and layer hight for all your parts. 
-If you use the same setting for everything, use one row.
+![U2D2 Power Hub Board with 3D printed base](./output/2power_hub_base.JPG)
 
 | Part  | Material        | Quantity | Infill   | Layer hight
 | ----- | --------------- | -------- | -------- | ------------
@@ -31,8 +19,6 @@ If you use the same setting for everything, use one row.
 | Servo holder | ABS | 16  | 20 % | 0.2 mm       
 | Lid | PolyMaker PLA | 19  | 20 % | 0.2 mm       
 | Power Hub Board base | PolyMaker PLA | 1  | 20 % | .15 mm     
-
-**Deliverables:** Image of the physical prototype as `./output/2physical_prototype.jpg` and table with 3D-print instructions.
 
 ## 3) Bill of materials
 
