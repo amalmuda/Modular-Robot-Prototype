@@ -32,28 +32,9 @@ $ python
 
 ## 2) Images from testing the robot
 
-<!-- delete from here-->
-Take a photo of the robot/prototype in operation. Additionally, make a GIF that shows 
-the robot moving.
-<!-- ....to here-->
-
 [![Image of the prototype in action](./poster/images/2.png)](./poster/main.pdf)
 
 [![GIF of the prototype in action](./poster/images/2.gif)](./poster/main.pdf)
-
-<!-- delete from here-->
-**GIF instructions:** Make a GIF that shows the prototype working. The GIF should:
-
-- Not be more than 10 seconds long.
-- Not be more than 25MB.
-- Be 1:1 ratio.
-
-FFmpeg can help you with the enlisted requirements. Here is a starting point:
-
-```
-ffmpeg -i IMG_4730.MOV -t 10s -vf 'crop=600:600' -r 15  output/1.gif
-```
-**Deliverables:** Image and GIF showing the robot in action as `./poster/images/2.png` and `./poster/images/2.gif`.
 
 ## 3) Poster
 
