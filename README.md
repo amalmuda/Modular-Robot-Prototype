@@ -39,7 +39,7 @@ python dance.py
 
 <img src="./poster/images/2.gif" alt="GIF of the prototype in action" width="800" />
 
-**The spider configuration modular robot in action (when running breakdance.py python script).**
+**The spider configuration modular robot in action (*when running breakdance.py script*).**
 
 <br>
 <br>
