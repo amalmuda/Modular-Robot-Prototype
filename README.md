@@ -24,7 +24,10 @@ python dance.py
 
 [![Image of the prototype in action](./poster/images/2.png)](./poster/main.pdf)
 
+Spider configuration of the modular robot using first generation Brick modules.
+
 [![GIF of the prototype in action](./poster/images/2.gif)](./poster/main.pdf)
+The spider configuration modular robot in action (when running breakdance.py python script)
 
 ## 3) Poster
 
