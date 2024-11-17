@@ -29,4 +29,4 @@ python dance.py
 ## 3) Poster
 
 Read more on my poster about the robot [here](./poster/main.pdf). For information on
-CAD files, go to [this repo]([link to assignment 5](https://github.uio.no/amalmuda/in5590_assignment5/)).
+CAD files, go to [this repo](https://github.uio.no/amalmuda/in5590_assignment5/).
