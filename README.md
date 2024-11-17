@@ -2,7 +2,7 @@
 *By Abdullah Almudaffar*
 
 <div align="center">
-  <img src="poster/images/logo.png" alt="Logo" width="200">
+  <img src="poster/images/logo.png" alt="Logo" width="900">
 </div>
 
 
