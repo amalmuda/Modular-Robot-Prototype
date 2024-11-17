@@ -1,6 +1,6 @@
 # Assignment 6 - IN5590
 <!-- replace heading to name of prototype/robot -->
-*By Your Name*
+*By Abdullah Almudaffar*
 
 <!--delete from here-->
 In this assignment we'll focus on (1) getting firmware/software to work
