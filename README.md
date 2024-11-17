@@ -34,9 +34,9 @@ python dance.py
 
 <br>
 
-<img src="./poster/images/2.gif" alt="GIF of the prototype in action" width="800" />
+<img src="./poster/images/image2b.gif" alt="Latest generation of Brick module" width="800" />
 
-**The spider configuration modular robot in action (when running breakdance.py python script).**
+**The latest generation of the Brick module ready for use.**
 
 
 ## 3) Poster
