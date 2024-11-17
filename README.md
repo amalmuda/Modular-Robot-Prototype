@@ -11,14 +11,22 @@ If you use Python, set up a `requirement.txt` that includes all the necessary mo
 <!-- ....to here-->
 
 Setup instructions:
-```
-$ conda create --name <ENV_NAME> --file requirements.txt
-$ conda activate <ENV_NAME>
-```
 
-Run instructions: 
+Set up the environment:
 ```
-$ python 
+$ conda create --name mats_env --file requirements.txt
+$ conda activate mats_env
+```
+After that's installed, make sure:
+-U2D2 Power Hub Board is turned ON
+-USB is connected to your computer to the right port
+
+
+Run instructions:
+
+Then you can run your Python files from the src folder with example:
+```
+python breakdance.py
 ```
 
 <!-- delete from here-->
