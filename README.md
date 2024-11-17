@@ -1,6 +1,10 @@
 # The MATS - Modular Actuated Transforming System
-<!-- replace heading to name of prototype/robot -->
 *By Abdullah Almudaffar*
+
+<div align="center">
+  <img src="images/logo.png" alt="Logo" width="200">
+</div>
+
 
 ## 1) Firmware/software for the robot/prototype
 
