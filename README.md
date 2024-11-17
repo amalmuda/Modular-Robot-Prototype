@@ -1,4 +1,4 @@
-# Assignment 6 - IN5590
+The MATS - Modular Actuated Transforming System
 <!-- replace heading to name of prototype/robot -->
 *By Abdullah Almudaffar*
 
