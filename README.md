@@ -18,8 +18,8 @@ $ conda create --name mats_env --file requirements.txt
 $ conda activate mats_env
 ```
 After that's installed, make sure:
--U2D2 Power Hub Board is turned ON
--USB is connected to your computer to the right port
+- U2D2 Power Hub Board is turned ON
+- USB is connected to your computer to the right port
 
 
 Run instructions:
