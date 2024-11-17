@@ -34,7 +34,7 @@ python dance.py
 
 <br>
 
-<img src="./poster/images/image2b.gif" alt="Latest generation of Brick module" width="800" />
+<img src="./poster/images/image2b.jpg" alt="Latest generation of Brick module" width="800" />
 
 **The latest generation of the Brick module ready for use.**
 
