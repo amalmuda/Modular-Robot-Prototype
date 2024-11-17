@@ -13,7 +13,7 @@ After that's installed, make sure:
 - U2D2 Power Hub Board is turned ON
 - USB is connected to your computer to the right port
 
-Then you can run your Python files from the src folder with example:
+Then you can run your Python files from the src folder with examples:
 ```
 python breakdance.py
 python wake_up.py
