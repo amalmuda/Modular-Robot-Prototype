@@ -2,11 +2,6 @@
 <!-- replace heading to name of prototype/robot -->
 *By Abdullah Almudaffar*
 
-<!--delete from here-->
-In this assignment we'll focus on (1) getting firmware/software to work
-and (2) documentation for your robot.
-<!-- ....to here-->
-
 ## 1) Firmware/software for the robot/prototype
 
 <!-- delete from here-->
