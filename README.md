@@ -4,14 +4,6 @@
 
 ## 1) Firmware/software for the robot/prototype
 
-<!-- delete from here-->
-All the software for getting your prototype to work, should be put into `./src`. 
-
-If you use Python, set up a `requirement.txt` that includes all the necessary modules.
-<!-- ....to here-->
-
-Setup instructions:
-
 Set up the environment:
 ```
 $ conda create --name mats_env --file requirements.txt
@@ -21,17 +13,12 @@ After that's installed, make sure:
 - U2D2 Power Hub Board is turned ON
 - USB is connected to your computer to the right port
 
-
-Run instructions:
-
 Then you can run your Python files from the src folder with example:
 ```
 python breakdance.py
+python wake_up.py
+python dance.py
 ```
-
-<!-- delete from here-->
-**Deliverables:** Source code in `./src` and setup/run instructions in this README.
-<!-- ....to here-->
 
 ## 2) Images from testing the robot
 
