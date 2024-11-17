@@ -1,10 +1,13 @@
 # The MATS - Modular Actuated Transforming System
 *By Abdullah Almudaffar*
 
+<br>
+
 <div align="center">
   <img src="poster/images/logo.png" alt="Logo" width="1000">
 </div>
 
+<br>
 <br>
 
 ## 1) Firmware/software for the robot/prototype
@@ -32,11 +35,13 @@ python dance.py
 **Spider configuration of the modular robot using first generation Brick modules.**
 
 <br>
+<br>
 
 <img src="./poster/images/2.gif" alt="GIF of the prototype in action" width="800" />
 
 **The spider configuration modular robot in action (when running breakdance.py python script).**
 
+<br>
 <br>
 
 <img src="./poster/images/image2b.jpg" alt="Latest generation of Brick module" width="800" />
