@@ -22,16 +22,21 @@ python dance.py
 
 ## 2) Images from testing the robot
 
-<img src="./poster/images/2.png" alt="Image of the prototype in action" width="400" />
+<img src="./poster/images/2.png" alt="Image of the prototype in action" width="600" />
 
 **Spider configuration of the modular robot using first generation Brick modules.**
 
 <br>
 
-<img src="./poster/images/2.gif" alt="GIF of the prototype in action" width="400" />
+<img src="./poster/images/2.gif" alt="GIF of the prototype in action" width="600" />
 
 **The spider configuration modular robot in action (when running breakdance.py python script).**
 
+<br>
+
+<img src="./poster/images/2.gif" alt="GIF of the prototype in action" width="600" />
+
+**The spider configuration modular robot in action (when running breakdance.py python script).**
 
 
 ## 3) Poster
