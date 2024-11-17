@@ -2,9 +2,10 @@
 *By Abdullah Almudaffar*
 
 <div align="center">
-  <img src="poster/images/logo.png" alt="Logo" width="900">
+  <img src="poster/images/logo.png" alt="Logo" width="100">
 </div>
 
+<br>
 
 ## 1) Firmware/software for the robot/prototype
 
