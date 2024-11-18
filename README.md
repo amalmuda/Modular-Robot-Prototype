@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <img src="poster/images/logo.png" alt="Logo" width="1000">
+  <img src="poster/images/logo_github.jpg" alt="Logo" width="1000">
 </div>
 
 <br>
