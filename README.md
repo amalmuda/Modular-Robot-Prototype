@@ -64,21 +64,21 @@ This project developed a durable, visually appealing modular robot with easy-to-
 <table>
   <tr>
     <td align="center">
-      <img src="images/evolution_of_modules.png" alt="Evolution of module design" width="350"><br>
+      <img src="images/evolution_of_modules.jpg" alt="Evolution of module design" width="350"><br>
       <sub>Evolution of the module design</sub>
     </td>
     <td align="center">
-      <img src="images/latest_generation_module.png" alt="Latest generation module" width="350"><br>
+      <img src="images/latest_generation_module.jpg" alt="Latest generation module" width="350"><br>
       <sub>Latest-generation module printed in ABS</sub>
     </td>
     <td align="center">
-      <img src="images/simulation_spider.png" alt="Spider-robot simulation in Revolve" width="350"><br>
-      <sub>Spider-robot simulated in Revolve</sub>
+      <img src="images/simulation_spider.jpg" alt="Spider-robot simulation in Revolve" width="350"><br>
+      <sub>Spider-robot simulation in Revolve</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="images/power_hub.png" alt="Power hub for controlling the robot" width="350"><br>
+      <img src="images/power_hub.jpg" alt="Power hub for controlling the robot" width="350"><br>
       <sub>Power hub & control electronics</sub>
     </td>
     <td align="center">
@@ -88,6 +88,7 @@ This project developed a durable, visually appealing modular robot with easy-to-
     <td></td>
   </tr>
 </table>
+
 
 
 
