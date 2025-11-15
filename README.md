@@ -30,13 +30,15 @@ This project developed a durable, visually appealing modular robot with easy-to-
       <a href="https://www.youtube.com/watch?v=6TiiAdvZFsY">
         <img src="https://img.youtube.com/vi/6TiiAdvZFsY/maxresdefault.jpg" alt="Small worm configuration" width="400">
       </a><br>
-      <b>Small worm configuration</b>
+      <b>Small worm configuration</b><br>
+      <sub>▶ Click to watch on YouTube</sub>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=PtgOzKhWjz0">
         <img src="https://img.youtube.com/vi/PtgOzKhWjz0/maxresdefault.jpg" alt="Riverdancing quadruped" width="400">
       </a><br>
-      <b>Riverdancing quadruped</b>
+      <b>Riverdancing quadruped</b><br>
+      <sub>▶ Click to watch on YouTube</sub>
     </td>
   </tr>
   <tr>
@@ -44,16 +46,19 @@ This project developed a durable, visually appealing modular robot with easy-to-
       <a href="https://www.youtube.com/watch?v=ytFvpS4uCtc">
         <img src="https://img.youtube.com/vi/ytFvpS4uCtc/maxresdefault.jpg" alt="4-legged breakdancing spider" width="400">
       </a><br>
-      <b>4-legged breakdancing spider</b>
+      <b>4-legged breakdancing spider</b><br>
+      <sub>▶ Click to watch on YouTube</sub>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=Mg6dMusM-d4">
         <img src="https://img.youtube.com/vi/Mg6dMusM-d4/maxresdefault.jpg" alt="Large snake configuration" width="400">
       </a><br>
-      <b>Large snake configuration</b>
+      <b>Large snake configuration</b><br>
+      <sub>▶ Click to watch on YouTube</sub>
     </td>
   </tr>
 </table>
+
 
 
 # Tools and bill of materials
