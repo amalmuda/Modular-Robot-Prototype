@@ -56,6 +56,15 @@ Fasteners:
 | 4    | M2 screws | 164
 | 5    | M2 nuts | 32  
 
+For 3D-printing:
+
+| Part  | Material        | Quantity | Infill   | Layer height
+| ----- | --------------- | -------- | -------- | ------------
+| Block module | ABS | 9  | 20 % | 0.2 mm      
+| Servo holder | ABS | 16  | 20 % | 0.2 mm       
+| Lid | PolyMaker PLA | 18  | 20 % | 0.2 mm       
+| Power Hub Board base | PolyMaker PLA | 1  | 20 % | 0.2 mm    
+
 ## Firmware/software for the robot/prototype
 
 Set up the environment:
@@ -99,16 +108,3 @@ python dance.py
 ![Assembled view of the robot](./output/1assembled.PNG)
 
 ![Exploaded view of the robot](./output/1exploded.PNG)
-
-## 3D-print
-
-![](./output/2physical_prototype.jpg)
-
-![U2D2 Power Hub Board with 3D printed base](./output/2power_hub_base.jpg)
-
-| Part  | Material        | Quantity | Infill   | Layer height
-| ----- | --------------- | -------- | -------- | ------------
-| Block module | ABS | 9  | 20 % | 0.2 mm      
-| Servo holder | ABS | 16  | 20 % | 0.2 mm       
-| Lid | PolyMaker PLA | 18  | 20 % | 0.2 mm       
-| Power Hub Board base | PolyMaker PLA | 1  | 20 % | 0.2 mm     
