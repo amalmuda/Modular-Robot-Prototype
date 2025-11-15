@@ -82,29 +82,3 @@ python breakdance.py
 python wake_up.py
 python dance.py
 ```
-
-## Images from testing the robot
-
-<img src="./poster/images/2.png" alt="Image of the prototype in action" width="800" />
-
-**Spider configuration of the modular robot using first generation Brick modules.**
-
-<br>
-<br>
-
-<img src="./poster/images/2.gif" alt="GIF of the prototype in action" width="800" />
-
-**The spider configuration modular robot in action (*when running breakdance.py script*).**
-
-<br>
-<br>
-
-<img src="./poster/images/image2b.jpg" alt="Latest generation of Brick module" width="800" />
-
-**The latest generation of the Brick module ready for use.**
-
-## CAD files
-
-![Assembled view of the robot](./output/1assembled.PNG)
-
-![Exploaded view of the robot](./output/1exploded.PNG)
