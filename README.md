@@ -22,6 +22,28 @@ This project developed a durable, visually appealing modular robot with easy-to-
   <b> Click the image to watch the MATS demo on YouTube (with sound)</b>
 </p>
 
+## Other configuration examples
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=6TiiAdvZFsY">
+    <img src="https://img.youtube.com/vi/6TiiAdvZFsY/maxresdefault.jpg" alt="Small worm configuration" width="230">
+  </a>
+  <a href="https://www.youtube.com/watch?v=PtgOzKhWjz0">
+    <img src="https://img.youtube.com/vi/PtgOzKhWjz0/maxresdefault.jpg" alt="Riverdancing quadruped" width="230">
+  </a>
+  <a href="https://www.youtube.com/watch?v=ytFvpS4uCtc">
+    <img src="https://img.youtube.com/vi/ytFvpS4uCtc/maxresdefault.jpg" alt="4-legged breakdancing spider" width="230">
+  </a>
+  <a href="https://www.youtube.com/watch?v=Mg6dMusM-d4">
+    <img src="https://img.youtube.com/vi/Mg6dMusM-d4/maxresdefault.jpg" alt="Large snake configuration" width="230">
+  </a>
+</p>
+
+<p align="center">
+  <b>▶ Click any image to watch a configuration example on YouTube</b>
+</p>
+
+
 
 # Tools and bill of materials
 
