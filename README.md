@@ -65,7 +65,7 @@ This project developed a durable, visually appealing modular robot with easy-to-
   <!-- Row 1: evolution only -->
   <tr>
     <td align="center">
-      <img src="images/evolution_of_modules.jpg" alt="Evolution of the module design" width="700"><br>
+      <img src="images/evolution_of_modules.jpg" alt="Evolution of the module design" width="1000"><br>
       <sub>Evolution of the module design</sub>
     </td>
   </tr>
@@ -73,11 +73,11 @@ This project developed a durable, visually appealing modular robot with easy-to-
   <!-- Row 2: assembled + exploded views -->
   <tr>
     <td align="center">
-      <img src="images/assembled_view.PNG" alt="Assembled module view" width="400"><br>
+      <img src="images/assembled_view.PNG" alt="Assembled module view" width="500"><br>
       <sub>Assembled module view</sub>
     </td>
     <td align="center">
-      <img src="images/exploded_view.PNG" alt="Exploded module view" width="400"><br>
+      <img src="images/exploded_view.PNG" alt="Exploded module view" width="500"><br>
       <sub>Exploded module view</sub>
     </td>
   </tr>
@@ -85,11 +85,11 @@ This project developed a durable, visually appealing modular robot with easy-to-
   <!-- Row 3: latest module + power hub -->
   <tr>
     <td align="center">
-      <img src="images/latest_generation_module.jpg" alt="Latest-generation module (ABS)" width="400"><br>
+      <img src="images/latest_generation_module.jpg" alt="Latest-generation module (ABS)" width="500"><br>
       <sub>Latest-generation module (ABS)</sub>
     </td>
     <td align="center">
-      <img src="images/power_hub.jpg" alt="Power hub and control electronics" width="400"><br>
+      <img src="images/power_hub.jpg" alt="Power hub and control electronics" width="500"><br>
       <sub>Power hub and control electronics</sub>
     </td>
   </tr>
@@ -97,11 +97,11 @@ This project developed a durable, visually appealing modular robot with easy-to-
   <!-- Row 4: spider simulation + robot in action -->
   <tr>
     <td align="center">
-      <img src="images/simulation_spider.jpg" alt="Spider-robot simulation in Revolve" width="400"><br>
+      <img src="images/simulation_spider.jpg" alt="Spider-robot simulation in Revolve" width="500"><br>
       <sub>Spider-robot simulation in Revolve</sub>
     </td>
     <td align="center">
-      <img src="images/robot_in_action.gif" alt="Robot in action" width="400"><br>
+      <img src="images/robot_in_action.gif" alt="Robot in action" width="500"><br>
       <sub>Robot in action</sub>
     </td>
   </tr>
