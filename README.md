@@ -64,11 +64,11 @@ This project developed a durable, visually appealing modular robot with easy-to-
 <table>
   <tr>
     <td align="center">
-      <img src="images/assembled_view.png" alt="Assembled module view" width="300"><br>
+      <img src="images/assembled_view.PNG" alt="Assembled module view" width="300"><br>
       <sub>Assembled module view</sub>
     </td>
     <td align="center">
-      <img src="images/exploded_view.png" alt="Exploded module view" width="300"><br>
+      <img src="images/exploded_view.PNG" alt="Exploded module view" width="300"><br>
       <sub>Exploded module view</sub>
     </td>
     <td align="center">
