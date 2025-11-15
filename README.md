@@ -64,39 +64,40 @@ This project developed a durable, visually appealing modular robot with easy-to-
 <table>
   <tr>
     <td align="center">
-      <img src="images/assembled_view.PNG" alt="Assembled module view" width="500"><br>
+      <img src="images/assembled_view.png" alt="Assembled module view" width="300"><br>
       <sub>Assembled module view</sub>
     </td>
     <td align="center">
-      <img src="images/exploded_view.PNG" alt="Exploded module view" width="500"><br>
+      <img src="images/exploded_view.png" alt="Exploded module view" width="300"><br>
       <sub>Exploded module view</sub>
     </td>
     <td align="center">
-      <img src="images/evolution_of_modules.jpg" alt="Evolution of module design" width="500"><br>
+      <img src="images/evolution_of_modules.jpg" alt="Evolution of the module design" width="300"><br>
       <sub>Evolution of the module design</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="images/latest_generation_module.jpg" alt="Latest generation module" width="500"><br>
+      <img src="images/latest_generation_module.jpg" alt="Latest-generation module (ABS)" width="300"><br>
       <sub>Latest-generation module (ABS)</sub>
     </td>
     <td align="center">
-      <img src="images/simulation_spider.jpg" alt="Spider-robot simulation in Revolve" width="500"><br>
-      <sub>Spider-robot simulation in Revolve</sub>
-    </td>
-    <td align="center">
-      <img src="images/power_hub.jpg" alt="Power hub" width="500"><br>
+      <img src="images/power_hub.jpg" alt="Power hub & control electronics" width="300"><br>
       <sub>Power hub & control electronics</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3">
-      <img src="images/robot_in_action.gif" alt="Robot in action" width="500"><br>
+    <td align="center">
+      <img src="images/simulation_spider.jpg" alt="Spider-robot simulation in Revolve" width="300"><br>
+      <sub>Spider-robot simulation in Revolve</sub>
+    </td>
+    <td align="center">
+      <img src="images/robot_in_action.gif" alt="Robot in action" width="300"><br>
       <sub>Robot in action</sub>
     </td>
   </tr>
 </table>
+
 
 # Tools and bill of materials
 
