@@ -79,7 +79,7 @@ The following components were used in the development of MATS:
 - U2D2 USB communication converter
 - U2D2 Power Hub Board
 - Dynamixel AX-18A servo
-- 3D printed modules with PLA and ABS (designed with CAD in Solidworks)
+- 3D printed modules with PLA and ABS (CAD modelled in SolidWorks)
 - Neodym magnets
 
 **Complete list of bill of materials:**
