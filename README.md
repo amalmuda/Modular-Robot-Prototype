@@ -179,3 +179,17 @@ python breakdance.py
 python wake_up.py
 python dance.py
 ```
+## Future work
+
+### Design
+
+- **Integrate Molex connectors:** Combine with mating connectors for seamless integration and use magnets for attachment and servo communication.
+- **Expand connectivity:** Modify Brick modules for six-sided connectivity instead of four-sided to increase flexibility.
+- **Add adapters:** Develop connectors for linking modules directly, including 360° revolute joints for modular manipulators.
+
+### Hardware and software
+
+- **Use a microcontroller or a Raspberry Pi:** Enable wireless control and communication with the robot.
+- **Incorporate a battery as the power source:** Address the challenge of module size, or consider a core module to house the battery and hardware.
+- **Use simulations, evolutionary algorithms, and artificial intelligence:** Optimize the robot’s movements efficiently.
+- **Address the reality gap:** Develop methods to transfer optimized movements from simulations to the real-world robot, minimizing performance differences.
