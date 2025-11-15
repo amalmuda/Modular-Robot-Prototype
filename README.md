@@ -22,6 +22,19 @@ This project developed a durable, visually appealing modular robot with easy-to-
   <b> Click the image to watch the MATS demo on YouTube (with sound)</b>
 </p>
 
+## Modular robot crawling
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=GOCKxC3IZR8">
+    <img src="https://img.youtube.com/vi/GOCKxC3IZR8/maxresdefault.jpg" 
+         alt="Modular robot crawling" width="1200">
+  </a>
+</p>
+
+<p align="center">
+  <b>Click the image to watch on YouTube</b>
+</p>
+
 ## Other configuration examples
 
 <table>
@@ -31,14 +44,14 @@ This project developed a durable, visually appealing modular robot with easy-to-
         <img src="https://img.youtube.com/vi/6TiiAdvZFsY/maxresdefault.jpg" alt="Small worm configuration" width="400">
       </a><br>
       <b>Small worm configuration</b><br>
-      <sub>▶ Click to watch on YouTube</sub>
+      <sub></sub>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=PtgOzKhWjz0">
         <img src="https://img.youtube.com/vi/PtgOzKhWjz0/maxresdefault.jpg" alt="Riverdancing quadruped" width="400">
       </a><br>
       <b>Riverdancing quadruped</b><br>
-      <sub>▶ Click to watch on YouTube</sub>
+      <sub></sub>
     </td>
   </tr>
   <tr>
@@ -47,14 +60,14 @@ This project developed a durable, visually appealing modular robot with easy-to-
         <img src="https://img.youtube.com/vi/ytFvpS4uCtc/maxresdefault.jpg" alt="4-legged breakdancing spider" width="400">
       </a><br>
       <b>4-legged breakdancing spider</b><br>
-      <sub>▶ Click to watch on YouTube</sub>
+      <sub></sub>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=Mg6dMusM-d4">
         <img src="https://img.youtube.com/vi/Mg6dMusM-d4/maxresdefault.jpg" alt="Large snake configuration" width="400">
       </a><br>
       <b>Large snake configuration</b><br>
-      <sub>▶ Click to watch on YouTube</sub>
+      <sub></sub>
     </td>
   </tr>
 </table>
