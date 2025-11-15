@@ -14,7 +14,7 @@ This project developed a durable, visually appealing modular robot with easy-to-
 <p align="center">
   <a href="https://www.youtube.com/watch?v=7X1GoiLjF7E">
     <img src="https://img.youtube.com/vi/7X1GoiLjF7E/maxresdefault.jpg" 
-         alt="MATS demo video" width="700">
+         alt="MATS demo video" width="1000">
   </a>
 </p>
 
