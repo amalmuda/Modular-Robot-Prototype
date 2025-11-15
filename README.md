@@ -9,6 +9,8 @@ to directly control the robot is the Dynamixel SDK, a software development kit t
 
 This project developed a durable, visually appealing modular robot with easy-to-assemble modules, seamless connections, and efficient cable management. Its minimalist design simplifies use and supports future advancements in modular robotics.
 
+[![MATS demo](https://img.youtube.com/vi/7X1GoiLjF7E/0.jpg)](https://www.youtube.com/watch?v=7X1GoiLjF7E)
+
 
 # Tools and bill of materials
 
