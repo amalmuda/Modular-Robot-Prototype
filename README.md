@@ -24,25 +24,36 @@ This project developed a durable, visually appealing modular robot with easy-to-
 
 ## Other configuration examples
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=6TiiAdvZFsY">
-    <img src="https://img.youtube.com/vi/6TiiAdvZFsY/maxresdefault.jpg" alt="Small worm configuration" width="230">
-  </a>
-  <a href="https://www.youtube.com/watch?v=PtgOzKhWjz0">
-    <img src="https://img.youtube.com/vi/PtgOzKhWjz0/maxresdefault.jpg" alt="Riverdancing quadruped" width="230">
-  </a>
-  <a href="https://www.youtube.com/watch?v=ytFvpS4uCtc">
-    <img src="https://img.youtube.com/vi/ytFvpS4uCtc/maxresdefault.jpg" alt="4-legged breakdancing spider" width="230">
-  </a>
-  <a href="https://www.youtube.com/watch?v=Mg6dMusM-d4">
-    <img src="https://img.youtube.com/vi/Mg6dMusM-d4/maxresdefault.jpg" alt="Large snake configuration" width="230">
-  </a>
-</p>
-
-<p align="center">
-  <b>▶ Click any image to watch a configuration example on YouTube</b>
-</p>
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=6TiiAdvZFsY">
+        <img src="https://img.youtube.com/vi/6TiiAdvZFsY/maxresdefault.jpg" alt="Small worm configuration" width="400">
+      </a><br>
+      <b>Small worm configuration</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=PtgOzKhWjz0">
+        <img src="https://img.youtube.com/vi/PtgOzKhWjz0/maxresdefault.jpg" alt="Riverdancing quadruped" width="400">
+      </a><br>
+      <b>Riverdancing quadruped</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=ytFvpS4uCtc">
+        <img src="https://img.youtube.com/vi/ytFvpS4uCtc/maxresdefault.jpg" alt="4-legged breakdancing spider" width="400">
+      </a><br>
+      <b>4-legged breakdancing spider</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=Mg6dMusM-d4">
+        <img src="https://img.youtube.com/vi/Mg6dMusM-d4/maxresdefault.jpg" alt="Large snake configuration" width="400">
+      </a><br>
+      <b>Large snake configuration</b>
+    </td>
+  </tr>
+</table>
 
 
 # Tools and bill of materials
