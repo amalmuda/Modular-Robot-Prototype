@@ -19,7 +19,7 @@ This project developed a durable, visually appealing modular robot with easy-to-
 </p>
 
 <p align="center">
-  <b> Click the image to watch the MATS demo on YouTube</b>
+  <b> Click the image to watch the MATS demo on YouTube (with sound)</b>
 </p>
 
 
