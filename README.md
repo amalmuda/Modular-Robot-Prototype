@@ -13,13 +13,14 @@ This project developed a durable, visually appealing modular robot with easy-to-
 # Tools and bill of materials
 
 The following components were used in the development of MATS:
-• U2D2 USB communication converter
-• U2D2 Power Hub Board
-• Dynamixel AX-18A servo
-• 3D printed modules with PLA and ABS (designed with CAD in Solidworks)
-• Neodym magnets
 
-Complete list of bill of materials:
+- U2D2 USB communication converter
+- U2D2 Power Hub Board
+- Dynamixel AX-18A servo
+- 3D printed modules with PLA and ABS (designed with CAD in Solidworks)
+- Neodym magnets
+
+**Complete list of bill of materials:**
 
 Main components:
 | Item | Description      | Quantity 
@@ -55,7 +56,7 @@ Fasteners:
 | 4    | M2 screws | 164
 | 5    | M2 nuts | 32  
 
-## 1) Firmware/software for the robot/prototype
+## Firmware/software for the robot/prototype
 
 Set up the environment:
 ```
@@ -73,7 +74,7 @@ python wake_up.py
 python dance.py
 ```
 
-## 2) Images from testing the robot
+## Images from testing the robot
 
 <img src="./poster/images/2.png" alt="Image of the prototype in action" width="800" />
 
@@ -93,13 +94,13 @@ python dance.py
 
 **The latest generation of the Brick module ready for use.**
 
-## 1) CAD files
+## CAD files
 
 ![Assembled view of the robot](./output/1assembled.PNG)
 
 ![Exploaded view of the robot](./output/1exploded.PNG)
 
-## 2) 3D-print
+## 3D-print
 
 ![](./output/2physical_prototype.jpg)
 
