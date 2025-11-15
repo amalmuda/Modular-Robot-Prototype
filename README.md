@@ -9,7 +9,7 @@ to directly control the robot is the Dynamixel SDK, a software development kit t
 
 This project developed a durable, visually appealing modular robot with easy-to-assemble modules, seamless connections, and efficient cable management. Its minimalist design simplifies use and supports future advancements in modular robotics.
 
-## MATS Demo Video
+## MATS Demo Video (dancing mode)
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=7X1GoiLjF7E">
@@ -19,7 +19,7 @@ This project developed a durable, visually appealing modular robot with easy-to-
 </p>
 
 <p align="center">
-  <b>▶ Click the image to watch the MATS demo on YouTube</b>
+  <b> Click the image to watch the MATS demo on YouTube</b>
 </p>
 
 
