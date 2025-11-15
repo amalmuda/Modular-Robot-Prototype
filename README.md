@@ -72,54 +72,6 @@ This project developed a durable, visually appealing modular robot with easy-to-
   </tr>
 </table>
 
-## Image gallery
-
-<table>
-  <!-- Row 1: evolution spans two columns -->
-  <tr>
-    <td align="center" colspan="2">
-      <img src="images/evolution_of_modules.jpg" alt="Evolution of the module design" width="800"><br>
-      <sub>Evolution of the module design</sub>
-    </td>
-  </tr>
-
-  <!-- Row 2: assembled + exploded views -->
-  <tr>
-    <td align="center">
-      <img src="images/assembled_view.PNG" alt="Assembled module view" width="400"><br>
-      <sub>Assembled module view</sub>
-    </td>
-    <td align="center">
-      <img src="images/exploded_view.PNG" alt="Exploded module view" width="400"><br>
-      <sub>Exploded module view</sub>
-    </td>
-  </tr>
-
-  <!-- Row 3: latest module + power hub -->
-  <tr>
-    <td align="center">
-      <img src="images/latest_generation_module.jpg" alt="Latest-generation module (ABS)" width="400"><br>
-      <sub>Latest-generation module (ABS)</sub>
-    </td>
-    <td align="center">
-      <img src="images/power_hub.jpg" alt="Power hub and control electronics" width="400"><br>
-      <sub>Power hub and control electronics</sub>
-    </td>
-  </tr>
-
-  <!-- Row 4: spider simulation + robot in action -->
-  <tr>
-    <td align="center">
-      <img src="images/simulation_spider.jpg" alt="Spider-robot simulation in Revolve" width="400"><br>
-      <sub>Spider-robot simulation in Revolve</sub>
-    </td>
-    <td align="center">
-      <img src="images/robot_in_action.gif" alt="Robot in action" width="400"><br>
-      <sub>Robot in action</sub>
-    </td>
-  </tr>
-</table>
-
 # Tools and bill of materials
 
 The following components were used in the development of MATS:
@@ -206,3 +158,51 @@ python dance.py
 - **Incorporate a battery as the power source:** Address the challenge of module size, or consider a core module to house the battery and hardware.
 - **Use simulations, evolutionary algorithms, and artificial intelligence:** Optimize the robot’s movements efficiently.
 - **Address the reality gap:** Develop methods to transfer optimized movements from simulations to the real-world robot, minimizing performance differences.
+
+## Image gallery
+
+<table>
+  <!-- Row 1: evolution spans two columns -->
+  <tr>
+    <td align="center" colspan="2">
+      <img src="images/evolution_of_modules.jpg" alt="Evolution of the module design" width="800"><br>
+      <sub>Evolution of the module design</sub>
+    </td>
+  </tr>
+
+  <!-- Row 2: assembled + exploded views -->
+  <tr>
+    <td align="center">
+      <img src="images/assembled_view.PNG" alt="Assembled module view" width="400"><br>
+      <sub>Assembled module view</sub>
+    </td>
+    <td align="center">
+      <img src="images/exploded_view.PNG" alt="Exploded module view" width="400"><br>
+      <sub>Exploded module view</sub>
+    </td>
+  </tr>
+
+  <!-- Row 3: latest module + power hub -->
+  <tr>
+    <td align="center">
+      <img src="images/latest_generation_module.jpg" alt="Latest-generation module (ABS)" width="400"><br>
+      <sub>Latest-generation module (ABS)</sub>
+    </td>
+    <td align="center">
+      <img src="images/power_hub.jpg" alt="Power hub and control electronics" width="400"><br>
+      <sub>Power hub and control electronics</sub>
+    </td>
+  </tr>
+
+  <!-- Row 4: spider simulation + robot in action -->
+  <tr>
+    <td align="center">
+      <img src="images/simulation_spider.jpg" alt="Spider-robot simulation in Revolve" width="400"><br>
+      <sub>Spider-robot simulation in Revolve</sub>
+    </td>
+    <td align="center">
+      <img src="images/robot_in_action.gif" alt="Robot in action" width="400"><br>
+      <sub>Robot in action</sub>
+    </td>
+  </tr>
+</table>
