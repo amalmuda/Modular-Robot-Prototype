@@ -174,11 +174,11 @@ python dance.py
   <tr>
     <td align="center">
       <img src="images/assembled_view.PNG" alt="Assembled module view in SolidWorks" width="400"><br>
-      <sub>Assembled module view</sub>
+      <sub>Assembled module view in SolidWorks</sub>
     </td>
     <td align="center">
       <img src="images/exploded_view.PNG" alt="Exploded module view in SolidWorks" width="400"><br>
-      <sub>Exploded module view</sub>
+      <sub>Exploded module view in SolidWorks</sub>
     </td>
   </tr>
 
